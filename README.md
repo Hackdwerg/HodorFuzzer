@@ -27,3 +27,8 @@ The file name in this directory containing the ports you want to try. This is op
 Each output is fairly self-explanitory. 
 
 The TITLE field is the title tag of any web-pages that are being served on the target at the specified port. The NOTES field shows some further information about the connection attempt, in case this is important or interesting. 
+
+
+Special thanks to:
+- Ndevnull
+- invizible_
